@@ -1,0 +1,17 @@
+{
+  "name": "threejs-exercises",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ogunb <babacanogun@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "serve": "parcel serve ./src/index.html -p 8080"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  },
+  "dependencies": {
+    "three": "^0.112.1"
+  }
+}
