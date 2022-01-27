@@ -12,6 +12,6 @@
     "parcel": "^1.12.4"
   },
   "dependencies": {
-    "three": "^0.112.1"
+    "three": "^0.137.0"
   }
 }
